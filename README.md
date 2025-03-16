@@ -2,8 +2,6 @@
 
 A **professional portfolio website** showcasing my **skills, experience, and projects** in **Robotics, AI, and Software Development**.
 
-🔗 **Live Demo:** [click here](https://google.com)
-
 ---
 
 ### 📌 Features
@@ -47,7 +45,7 @@ npm install
 node app.js
 ```
 
-🔹 Open http://localhost:3000 in your browser.
+🔹 Open http://localhost:3000/aboutme in your browser.
 
 ---
 
